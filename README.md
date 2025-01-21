@@ -1,0 +1,1 @@
+This repository demonstrates my SQL proficiency through a series of queries crafted while exploring real-world datasets from various sectors, including pharmaceuticals, finance, healthcare, e-commerce, and marketing.
